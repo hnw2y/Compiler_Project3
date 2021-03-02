@@ -1,20 +1,10 @@
-/***
-	Copy your own tiger.ll here, and make the following changes:
-	1. replace the line 
-			#include "tokens.h"
-	   by 
-	   		#include "tiger.tab.hh"
-
-***/
-
 /*
-PROGRAMMER: Hannah Williams
-PROGRAM #: Project 2
-DUE DATE: Wednesday, 2/17/21
+Team: Jessica Wijaya, Hannah Williams, and Helen Wubneh
+PROGRAM: Project 3
+Due DATE: Sunday, 3/14/21
 INSTRUCTOR: Dr. Zhijiang Dong
-Description: This project generates a scanner for the Tiger language
+DESCRIBATION: This project generates a scanner for the Tiger language
 */
-
 
 %option noyywrap
 %option never-interactive

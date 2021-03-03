@@ -9,26 +9,25 @@ Role [This section is required for each report, and should remain the same for a
     Tester           : Helen Wubneh
 
 Progress [This section is required for each report]
-    Name of a team member
-        His/her marjor work since last time the time log has been submitted
-    Name of a team member
-        His/her marjor work since last time the time log has been submitted
-    [Repeat above for each team member]
-
-Challenging Issues [This section is optional]
-    List major problems conquered by team members or to be solved by team members.
+    Hannah Willliams
+        We determined Hannah would be the leader for this assignment. The Github was created where files were organized
+    Jessica Wijaya
+        Determined Jessica would be the programmer for this assignment. 
+    Helen Wubneh
+        Determined Helen would be the tester for this assignment.
 
 Work to be done [This section is required for each report]
-    Name of a team member
+    Hannah Williams
         His/her future work before next deadline
-    Name of a team member
+    Jessica Wijaya
         His/her future work before next deadline
-    [Repeat above for each team member]
+    Helen Webneh
+        His/her future work before next deadline
 
 Meet deadline [This section is required for each report]
-    Name of Developer(s)
+    Jessica Wijaya
         Will the developer(s) be able to finish and submit the work before the next
 	deadline?  If no, please explain why?
-    Name of Tester(s)
+    Helen Wubneh
         Will the tester(s) be able to finish and submit the work before the next
 	deadline?  If no, please explain why?

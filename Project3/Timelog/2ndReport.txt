@@ -1,1 +1,32 @@
+Report submited at 2021-03-08 4:30 [Replace the date and time by the real information]*******************************
 
+Role
+    Assignment Leader: Hannah Williams
+    Programmer       : Jessica Wijaya
+    Tester           : Helen Wubneh
+
+Progress
+    Hannah Williams
+        Continued group communication and getting updates from team members. Took care of general documentation at the beginning of files.
+    Jessica Wijaya
+        Initial CFG has been written and is currently being debugged.
+    Helen Wubneh
+        His/her marjor work since last time the time log has been submitted*****************************
+
+Challenging Issues
+    Unsure about how to create operator precedence in CFG
+
+Work to be done
+    Hannah Williams
+        Review alpha CFG file and test cases
+    Jessica Wijaya
+        Finish alpha version of CFG
+    Helen Wubneh
+        Finish test cases and test report
+
+Meet deadline
+    Jessica Wijaya
+        Yes, she will be able to meet the deadline because she has already made good progress on the CFG thus far. 
+    Helen Wubneh
+        Will the tester(s) be able to finish and submit the work before the next********************************
+	deadline?  If no, please explain why?

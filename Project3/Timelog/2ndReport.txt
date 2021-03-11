@@ -1,4 +1,4 @@
-Report submited at 2021-03-08 4:30 [Replace the date and time by the real information]*******************************
+Report submited at 2021-03-08 12:00
 
 Role
     Assignment Leader: Hannah Williams
@@ -11,10 +11,10 @@ Progress
     Jessica Wijaya
         Initial CFG has been written and is currently being debugged.
     Helen Wubneh
-        His/her marjor work since last time the time log has been submitted*****************************
+        Began working and has made reasonable progress on test case for CFG.
 
 Challenging Issues
-    Unsure about how to create operator precedence in CFG
+    Unsure about how to correctly create operator precedence in CFG
 
 Work to be done
     Hannah Williams
@@ -28,5 +28,4 @@ Meet deadline
     Jessica Wijaya
         Yes, she will be able to meet the deadline because she has already made good progress on the CFG thus far. 
     Helen Wubneh
-        Will the tester(s) be able to finish and submit the work before the next********************************
-	deadline?  If no, please explain why?
+        Yes, she will be able to meet the deadline and finish the test case because she has already shown a fair amount of progress so far. 

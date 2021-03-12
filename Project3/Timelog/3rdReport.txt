@@ -1,4 +1,4 @@
-Report submited at 2021-03-13 4:30 [Replace the date and time by the real information]
+Report submited at 2021-03-13 4:30 [Replace the date and time by the real information]********************************
 
 Role 
     Assignment Leader: Hannah Williams
@@ -11,22 +11,18 @@ Progress
     Jessica Wijaya
         Made adjustments to alpha_tiger.yy so that the output is correct
     Hannah Williams
-        Added identifying header comments to files and managed progress of group work
-
-Challenging Issues 
-    List major problems conquered by team members or to be solved by team members.
+        Added identifying header comments to files and managed progress of the group work
 
 Work to be done 
     Helen Wubneh
         Test code when necessary until deadline.
     Jessica Wijaya
-        Finish any needed updates to CFG code based on test report. 
+        Finish any final needed updates to CFG code based on test report. 
     Hannah Williams
         Run and check to make sure final code works well.
 
 Meet deadline
     Jessica Wijaya
-        Yes, because the code already seems to work with the tiger code example file given with the assignment and the orignal test case seems to work well. 
+        Yes, because the code already seems to work with the tiger code example file given with the assignment and the new test case seems to work well. 
     Helen Wubneh
-        Will the tester(s) be able to finish and submit the work before the next*************************************
-	deadline?  If no, please explain why?
+	Yes, she has worked and finished the test report and will continue to test the code as needed. 

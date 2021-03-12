@@ -1,31 +1,32 @@
 Report submited at 2021-03-13 4:30 [Replace the date and time by the real information]
 
-Role [This section is required for each report, and should remain the same for all reports)
+Role 
     Assignment Leader: Hannah Williams
     Programmer       : Jessica Wijaya
     Tester           : Helen Wubneh
 
-Progress [This section is required for each report]
-    Name of a team member
-        His/her marjor work since last time the time log has been submitted
-    Name of a team member
-        His/her marjor work since last time the time log has been submitted
-    [Repeat above for each team member]
+Progress
+    Helen Wubneh
+        Created and finished test report
+    Jessica Wijaya
+        Made adjustments to alpha_tiger.yy so that the output is correct
+    Hannah Williams
+        Added identifying header comments to files and managed progress of group work
 
-Challenging Issues [This section is optional]
+Challenging Issues 
     List major problems conquered by team members or to be solved by team members.
 
-Work to be done [This section is required for each report]
-    Name of a team member
-        His/her future work before next deadline
-    Name of a team member
-        His/her future work before next deadline
-    [Repeat above for each team member]
+Work to be done 
+    Helen Wubneh
+        Test code when necessary until deadline.
+    Jessica Wijaya
+        Finish any needed updates to CFG code based on test report. 
+    Hannah Williams
+        Run and check to make sure final code works well.
 
-Meet deadline [This section is required for each report]
-    Name of Developer(s)
-        Will the developer(s) be able to finish and submit the work before the next
-	deadline?  If no, please explain why?
-    Name of Tester(s)
-        Will the tester(s) be able to finish and submit the work before the next
+Meet deadline
+    Jessica Wijaya
+        Yes, because the code already seems to work with the tiger code example file given with the assignment and the orignal test case seems to work well. 
+    Helen Wubneh
+        Will the tester(s) be able to finish and submit the work before the next*************************************
 	deadline?  If no, please explain why?

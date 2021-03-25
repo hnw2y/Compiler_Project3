@@ -1,0 +1,29 @@
+Report submited at 03/24/2021 10:02pm
+
+Role
+    Assignment Leader: Helen Wubneh
+    Programmer       : Hannah Williams
+    Tester           : Jessica Wijaya
+
+Progress
+     Helen Wubneh
+        We determined Helen would be the assignment leader for this assignment. She will be adding the project on the github so that the group members will be working on their role efficiently. 
+the programming.
+    Hannah Willliams
+        We determined Hannah would be the programmer for this assignment. It is her time now to go through the assignment description and start to work on 
+the programming.
+    Jessica Wijaya
+        We determined Jessica would be the Tester for this assignment. she will be working on writting the tests based on the program description. 
+Work to be done
+    Helen Webneh
+        Manage files in the git repo and manage the progress of the other members. 
+    Hannah Willliams
+        Begin development of the code needed to create  implement a symbol table, and perform every basic semantic error checking for undefined type/variable/function names and redefined type/variable names for tiger language. 
+    Jessica Wijaya
+        Begin writing test cases for program.
+
+Meet deadline
+    Hannah Willliams
+        Yes, some progress will be made on creating a context free grammar.
+    Jessica Wijaya
+        Yes, the test cases will be in the process of being created.

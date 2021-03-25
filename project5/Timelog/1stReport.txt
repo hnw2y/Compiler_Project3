@@ -1,4 +1,4 @@
-Report submited at 03/24/2021 10:02pm
+Report submited at 2021-03-24 10:48
 
 Role
     Assignment Leader: Helen Wubneh
@@ -8,7 +8,6 @@ Role
 Progress
      Helen Wubneh
         We determined Helen would be the assignment leader for this assignment. She will be adding the project on the github so that the group members will be working on their role efficiently. 
-the programming.
     Hannah Willliams
         We determined Hannah would be the programmer for this assignment. It is her time now to go through the assignment description and start to work on 
 the programming.
